@@ -1,1 +1,1 @@
-# Magic-Notes
+visit - https://magic-notes-by-sarfaraz.netlify.app/
